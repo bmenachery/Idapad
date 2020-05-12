@@ -1,0 +1,27 @@
+D:\BermenMarch\Idapad\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+D:\BermenMarch\Idapad\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+D:\BermenMarch\Idapad\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+D:\BermenMarch\Idapad\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+D:\BermenMarch\Idapad\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\BermenMarch\Idapad\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+D:\BermenMarch\Idapad\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+D:\BermenMarch\Idapad\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+D:\BermenMarch\Idapad\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
+D:\BermenMarch\Idapad - Copy\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+D:\BermenMarch\Idapad - Copy\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+D:\BermenMarch\Idapad - Copy\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+D:\BermenMarch\Idapad - Copy\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+D:\BermenMarch\Idapad - Copy\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\BermenMarch\Idapad - Copy\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+D:\BermenMarch\Idapad - Copy\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+D:\BermenMarch\Idapad - Copy\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+D:\BermenMarch\Idapad - Copy\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
+D:\BermenMarch\Idapad-RN\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+D:\BermenMarch\Idapad-RN\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+D:\BermenMarch\Idapad-RN\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+D:\BermenMarch\Idapad-RN\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+D:\BermenMarch\Idapad-RN\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\BermenMarch\Idapad-RN\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+D:\BermenMarch\Idapad-RN\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+D:\BermenMarch\Idapad-RN\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+D:\BermenMarch\Idapad-RN\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb

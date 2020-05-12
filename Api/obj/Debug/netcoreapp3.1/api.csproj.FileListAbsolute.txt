@@ -1,0 +1,193 @@
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\api.exe
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\api.deps.json
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\api.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\api.pdb
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\api.csprojAssemblyReference.cache
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\api.dll
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\api.pdb
+D:\BermenMarch\Idapad\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+D:\BermenMarch\idapad\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BermenMarch\idapad\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BermenMarch\Idapad\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\api.exe
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\api.deps.json
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\api.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\api.pdb
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\BermenMarch\Idapad - Copy\api\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\api.csprojAssemblyReference.cache
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\api.dll
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\api.pdb
+D:\BermenMarch\Idapad - Copy\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\api.exe
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\api.deps.json
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\api.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\api.pdb
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\api.csprojAssemblyReference.cache
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\api.dll
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\api.pdb
+D:\BermenMarch\Idapad-RN\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BermenMarch\Idapad-RN\api\bin\Debug\netcoreapp3.1\System.Text.Json.dll
