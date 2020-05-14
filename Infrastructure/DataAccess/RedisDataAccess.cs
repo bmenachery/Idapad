@@ -46,6 +46,8 @@ namespace Infrastructure.DataAccess
         public void Dispose()
         {
             _redisconnection?.Dispose();
+            GC.SuppressFinalize(this);
+        
         }    
     }
 }

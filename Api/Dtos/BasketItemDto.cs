@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Infrastructure.DataAccess
+namespace Api.Dtos
 {
     public class BasketItemDto
     {

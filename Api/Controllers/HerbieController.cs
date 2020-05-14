@@ -17,7 +17,7 @@ namespace Api.Controllers
 
         [HttpGet("testauth")]
         [Authorize]
-        public ActionResult<string> GetSecretText()
+        public static ActionResult<string> GetSecretText()
         {
             return "secret stuff";
         }
@@ -51,6 +51,7 @@ namespace Api.Controllers
         public ActionResult GetNotFoundResult(int id)
         {
             return Ok();
+           
         }
     }
 }

@@ -20,7 +20,7 @@ namespace Api.Controllers
         public async Task<ActionResult<int>> RegisterFirm(
                 [FromBody] FirmAddressDto model)
         {   
-            var address = new Address
+            var firmaddress = new FirmAddress
             {
                 Type = (string)model.AddressType,
                 Row1 = (string)model.Row1,
@@ -31,7 +31,7 @@ namespace Api.Controllers
 
             };
 
-          var  addressId = await _dataAccess.CreateFirmAddressAsync(address);
+          var  addressId = await _dataAccess.CreateFirmAddressAsync(firmaddress);
 
             var firm = new Firm
             {

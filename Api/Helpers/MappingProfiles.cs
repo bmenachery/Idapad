@@ -14,6 +14,8 @@ namespace Api.Helpers
 
             CreateMap<FirmProduct, FirmProductToReturnDto>()
            .ForMember(d => d.PictureUrl, o => o.MapFrom<FirmProductUrlResolver>());
+
+            CreateMap<Infrastructure.Identity.Models.Address, AddressDto>().ReverseMap();
         }
     }
 }

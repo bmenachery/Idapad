@@ -21,11 +21,11 @@ namespace Infrastructure.DataAccess
         }
 
         public static async Task<int> CreateFirmAddressAsync(this IdapadDataAccess dataAccess,
-             Address address)
+             FirmAddress firmaddress)
         {
                 return await dataAccess.ExecuteScalarAsync<int>(
                     "Insert Address (Type, Row1, Row2, City, State, Zip1)  output inserted.Id values" +
-                    "(@Type, @Row1, @Row2, @City, @State, @Zip1)", address);
+                    "(@Type, @Row1, @Row2, @City, @State, @Zip1)", firmaddress);
             
         }
 

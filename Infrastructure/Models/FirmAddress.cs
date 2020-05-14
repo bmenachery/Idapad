@@ -1,6 +1,6 @@
 namespace Infrastructure.Models
 {
-    public class Address: BaseEntity
+    public class FirmAddress: BaseEntity
     {
         public string Type { get; set; }
 
