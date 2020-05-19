@@ -23,11 +23,11 @@ namespace Api.Controllers
             var firmaddress = new FirmAddress
             {
                 Type = (string)model.AddressType,
-                Row1 = (string)model.Row1,
-                Row2 = (string)model.Row2,
+                AptAddress = (string)model.AptAddress,
+                StreetAddress = (string)model.StreetAddress,
                 City = (string)model.City,
                 State = (string)model.State,
-                Zip1 = (string)model.Zip1,
+                ZipCode = (string)model.Zip,
 
             };
 
