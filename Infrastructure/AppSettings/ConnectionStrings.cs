@@ -21,6 +21,7 @@ namespace Infrastructure.AppSettings
         }
         public RedisConnectionStrings()
         {
+            Redis = "localhost";
         }
     }
 }

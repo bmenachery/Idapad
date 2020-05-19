@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Data;
 using System.Threading.Tasks;
 using Infrastructure.AppSettings;
@@ -21,6 +22,17 @@ namespace Infrastructure.DataAccess
                 return firmProductId; 
 
 
+        }
+
+        public static async Task<IEnumerable<FirmProduct>> GetFirmProductItemAsync(this IdapadDataAccess dataAccess, int id)
+        {
+            string sql = "SELECT  f.[Id], p.[Name] FROM dbo.FirmProduct f " + 
+                        "INNER JOIN dbo.Product p on f.ProductId = p.Id " +
+                        "WHERE f.Id = " + id ;
+
+            var firmproduct = await dataAccess.QueryAsync<FirmProduct>(sql);
+
+            return firmproduct;
         }
 
         public static async Task<bool> RemoveFirmProductAsync(this IdapadDataAccess dataAccess,

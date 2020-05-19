@@ -23,7 +23,7 @@ namespace Infrastructure.DataAccess
 
         public IEnumerable<T> Query<T>(string sql, object param = null, IDbTransaction transaction = null, bool buffered = true, int? commandTimeout = null, CommandType? commandType = null)
         {
-            return Connection.Query<T>(sql, param, transaction, buffered, commandTimeout, CommandType.StoredProcedure);
+            return Connection.Query<T>(sql, param, transaction, buffered, commandTimeout, commandType);
         }
 
         public Task<IEnumerable<T>> QueryAsync<T>(string sql, object param = null, 
@@ -32,7 +32,7 @@ namespace Infrastructure.DataAccess
             return Connection.QueryAsync<T>(sql, param, transaction, commandTimeout, commandType);
         }
 
-       
+      
         public Task<T> QueryFirstOrDefaultAsync<T>(string sql, object param = null, 
                                     IDbTransaction transaction = null, int? commandTimeout = null, CommandType? commandType = null)
         {
