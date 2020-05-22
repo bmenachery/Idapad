@@ -1,12 +1,13 @@
-namespace Infrastructure.OrderAggregate
+namespace Infrastructure.Models
 {
-    public class Address
+    public class OrderAddress
     {
-        public Address(string firstName, string lastName, string street, string city, string state, string zipCode)
+        public OrderAddress(string firstName, string lastName, string streetAddress, string aptAddress, string city, string state, string zipCode)
         {
             FirstName = firstName;
             LastName = lastName;
-            Street = street;
+            StreetAddress = streetAddress;
+            AptAddress = aptAddress;
             City = city;
             State = state;
             ZipCode = zipCode;
@@ -14,8 +15,8 @@ namespace Infrastructure.OrderAggregate
 
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string Street { get; set; }
-
+        public string StreetAddress { get; set; }
+        public string AptAddress { get; set; }
         public string City { get; set; }
         public string State { get; set; }
 

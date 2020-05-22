@@ -22,7 +22,6 @@ namespace Api.Controllers
         {   
             var firmaddress = new FirmAddress
             {
-                Type = (string)model.AddressType,
                 AptAddress = (string)model.AptAddress,
                 StreetAddress = (string)model.StreetAddress,
                 City = (string)model.City,
@@ -42,7 +41,7 @@ namespace Api.Controllers
            
             var firmId = await _dataAccess.CreateFirmAsync(firm);
 
-            var user = await _dataAccess.GetUserByUserNameAsync(model.userName);
+            var user = await _dataAccess.GetUserByUserNameAsync(model.UserName);
 
             var firmUser = new FirmUser
             {

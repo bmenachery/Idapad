@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using Api.Dtos;
 using Api.Extensions;
@@ -7,7 +8,6 @@ using Infrastructure.AppSettings;
 using Infrastructure.DataAccess;
 using Infrastructure.Identity.Models;
 using Infrastructure.Models;
-using Infrastructure.OrderAggregate;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
@@ -36,11 +36,11 @@ namespace Api.Controllers
         {
             var email = HttpContext.User.RetrieveEmailFromPrincipal();
 
-            var address = _mapper.Map<AddressDto, FirmAddress>(orderDto.ShipToAddress);
+            var orderaddress = _mapper.Map<AddressDto, FirmAddress>(orderDto.ShipToAddress);
 
-            var addressid = await _dataAccess.CreateFirmAddressAsync(address);
+            var addressid = await _dataAccess.CreateFirmAddressAsync(orderaddress);
 
-            var order = _mapper.Map<OrderDto, Order>(orderDto);
+            var order = _mapper.Map<OrderDto, FirmOrder>(orderDto);
 
             int orderId = await _dataAccess.CreateOrderAsync(_dataRedisAccess, order, email, orderDto.DeliveryMethodId, addressid);
 
@@ -52,17 +52,19 @@ namespace Api.Controllers
 
         [HttpGet]
         
-        public async Task<ActionResult<Order>> GetOrders()
+        public async Task<ActionResult<IReadOnlyList<OrderDto>>> GetOrders()
         {
             var email = HttpContext.User.RetrieveEmailFromPrincipal();
         
-            var order = await _dataAccess.GetOrderAsync(email);
+            var orders = await _dataAccess.GetOrderAsync(email);
 
-            return Ok(order);
+            return Ok(_mapper.Map<IReadOnlyList<FirmOrder>, IReadOnlyList<OrderToReturnDto>>(orders));
+
+            //return ordersToReturn;
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<Order>> GetOrderByIdForUser(int id)
+        public async Task<ActionResult<FirmOrder>> GetOrderByIdForUser(int id)
         {
             var email = HttpContext.User.RetrieveEmailFromPrincipal();
 
@@ -75,7 +77,7 @@ namespace Api.Controllers
         }
 
         [HttpGet("deliveryMethods")]
-        public async Task<ActionResult<Order>> GetDeliveryMethods()
+        public async Task<ActionResult<FirmOrder>> GetDeliveryMethods()
         {
             return Ok(await _dataAccess.GetDeliveryMethodsAsync());
         }

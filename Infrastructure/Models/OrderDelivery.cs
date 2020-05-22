@@ -1,6 +1,6 @@
-namespace Infrastructure.OrderAggregate
+namespace Infrastructure.Models
 {
-    public class DeliveryMethod
+    public class OrderDelivery
     {
         public string ShortName { get; set; }
 

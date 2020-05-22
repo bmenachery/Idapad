@@ -8,10 +8,10 @@ namespace Infrastructure.Models
         [JsonProperty("id")]
         public int Id { get; set; }
 
-        [JsonIgnore]
+      /*   [JsonIgnore]
         public DateTime? CreatedDate { get; set; }
 
         [JsonIgnore]
-        public DateTime? ModifiedDate { get; set; }
+        public DateTime? ModifiedDate { get; set; } */
     }
 }
